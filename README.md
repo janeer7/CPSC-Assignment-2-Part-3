@@ -1,6 +1,6 @@
 # CPSC-Assignment-2-Part-3
 House Prices Assignment
-This project explores the Ames Housing dataset to understand the distribution of house sale prices and examine how different property characteristics relate to sale price. Python was used to perform exploratory data analysis (EDA), calculate summary statistics, and create visualizations.
+This project explores the House Prices dataset to understand the distribution of house sale prices and examine how different property characteristics relate to sale price. Python was used to perform exploratory data analysis (EDA), calculate summary statistics, and create visualizations.
 
 Objectives
 
