@@ -39,14 +39,14 @@ Sale prices vary across house subclasses and property characteristics.
 These findings describe associations in the dataset and do not establish cause-and-effect relationships.
 
 Project Structure
-
+```
 House Prices-EDA/
 ├── src/
 ├── data/
 ├── docs/
 ├── results/
 └── README.md
-
+```
 How to Explore the Project
 
 Open the Jupyter Notebook in the notebooks/ folder.
