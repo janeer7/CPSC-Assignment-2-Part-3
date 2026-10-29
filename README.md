@@ -50,11 +50,11 @@ House Prices-EDA/
 ```
 ## How to Explore the Project
 
-Open the Jupyter Notebook in the src/ folder.
+Open the Jupyter Notebook in the src folder.
 
 Review the code, summary statistics, and visualizations.
 
-Read the figure descriptions in the docs/ folder.
+Read the figure descriptions in the docs folder.
 
 ## Dataset
 
