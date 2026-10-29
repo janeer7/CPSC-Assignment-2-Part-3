@@ -4,7 +4,7 @@ House Prices Assignment
 
 This project explores the House Prices dataset to understand the distribution of house sale prices and examine how different property characteristics relate to sale price. Python was used to perform exploratory data analysis (EDA), calculate summary statistics, and create visualizations.
 
-Objectives
+## Objectives
 
 Examine the distribution of house sale prices.
 
@@ -14,7 +14,7 @@ Compare sale prices across different property categories.
 
 Investigate the relationships between sale price and property features such as lot area, living area, overall quality, and number of bedrooms.
 
-Tools and Libraries
+## Tools and Libraries
 
 Python
 
@@ -26,7 +26,7 @@ Matplotlib
 
 Seaborn
 
-Key Findings
+## Key Findings
 
 House sale prices vary considerably across the dataset.
 
@@ -40,7 +40,7 @@ Sale prices vary across house subclasses and property characteristics.
 
 These findings describe associations in the dataset and do not establish cause-and-effect relationships.
 
-Project Structure
+## Project Structure
 ```
 House Prices-EDA/
 ├── src/
@@ -49,18 +49,18 @@ House Prices-EDA/
 ├── results/
 └── README.md
 ```
-How to Explore the Project
+## How to Explore the Project
 
-Open the Jupyter Notebook in the notebooks/ folder.
+Open the Jupyter Notebook in the src/ folder.
 
 Review the code, summary statistics, and visualizations.
 
 Read the figure descriptions in the docs/ folder.
 
-Dataset
+## Dataset
 
 This uses the data from House Prices - Advanced Regression Techniques. Refer to https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/code
 
-Conclusion
+## Conclusion
 
 This exploratory analysis provides an initial understanding of how house prices vary and how selected property characteristics are associated with sale price. 
