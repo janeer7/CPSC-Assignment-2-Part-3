@@ -50,6 +50,7 @@ Read more info about the variables in the docs folder.
 ## Dataset
 
 This uses the data from House Prices - Advanced Regression Techniques. Refer to https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/code
+You can also find the train.csv in the data folder.
 
 ## Conclusion
 
