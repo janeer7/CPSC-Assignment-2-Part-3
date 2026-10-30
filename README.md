@@ -21,7 +21,6 @@ Pandas
 
 Matplotlib
 
-Seaborn
 
 ## Key Findings
 
@@ -46,6 +45,8 @@ Open the Jupyter Notebook in the src folder.
 Review the code, summary statistics, and visualizations.
 
 Read more info about the variables in the docs folder.
+
+The pdf of the executive summary as well as the figures used in visualization is in the results folder.
 
 ## Dataset
 
