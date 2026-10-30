@@ -7,11 +7,9 @@ This project explores the House Prices dataset to understand the distribution of
 
 Examine the distribution of house sale prices.
 
-Explore the distribution of house subclasses.
+Explore the correlation of numerical variable with Sales Price.
 
-Compare sale prices across different property categories.
-
-Investigate the relationships between sale price and property features such as lot area, living area, overall quality, and number of bedrooms.
+Investigate the relationships between sale price and property features, particularly overall quality and above-ground living area, which are two of the variables with the highest correlations with sale price.
 
 ## Tools and Libraries
 
@@ -27,17 +25,10 @@ Seaborn
 
 ## Key Findings
 
-House sale prices vary considerably across the dataset.
+Property quality is the strongest driver of sale price based on correlation analysis.
+Sale prices are not evenly distributed and contain high-value outliers.
+The top-ranked factors provide the clearest explanation of price variation across properties.
 
-Above-ground living area has a positive relationship with sale price; larger homes generally tend to have higher prices.
-
-Lot area has a weaker relationship with sale price compared with above-ground living area.
-
-Higher overall quality ratings are generally associated with higher sale prices.
-
-Sale prices vary across house subclasses and property characteristics.
-
-These findings describe associations in the dataset and do not establish cause-and-effect relationships.
 
 ## Project Structure
 ```
@@ -54,7 +45,7 @@ Open the Jupyter Notebook in the src folder.
 
 Review the code, summary statistics, and visualizations.
 
-Read the figure descriptions in the docs folder.
+Read more info about the variables in the docs folder.
 
 ## Dataset
 
@@ -62,4 +53,4 @@ This uses the data from House Prices - Advanced Regression Techniques. Refer to 
 
 ## Conclusion
 
-This exploratory analysis provides an initial understanding of how house prices vary and how selected property characteristics are associated with sale price. 
+The exploratory data analysis showed that overall quality and above-ground living area are important features associated with house sale prices. Homes with higher overall quality ratings tend to have higher median prices, while properties with larger above-ground living areas generally have higher sale prices. These findings highlight the importance of property quality and living space when examining house prices. However, these relationships do not necessarily indicate causation.
